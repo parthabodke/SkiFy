@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+python-dotenv
+google-generativeai
+python-multipart
+pillow
+pymupdf
+chromadb
+tiktoken

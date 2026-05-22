@@ -1,0 +1,9 @@
+.vercel
+.env
+.venv
+node_modules
+.next
+dist
+__pycache__
+requirements-old-detailed.txt
+requirements-old.txt
